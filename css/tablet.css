@@ -1,0 +1,15 @@
+@media (max-width:768px) {
+    section#nav-bar .menu .menu-item {
+        padding: 10px 15px;
+    }
+    .menu-item-not-pd h1,
+    .menu-item-not-pd span {
+        display: none;
+    }
+    #nav-bar {
+        width:100%;
+    }
+    .box-certi {
+        margin-bottom: 20px !important;
+    }
+}

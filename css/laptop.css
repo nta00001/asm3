@@ -1,0 +1,17 @@
+@media (max-width: 1024px) {
+  section > .container {
+    width: 100% !important;
+  }
+  .box-project .box-content {
+    display: block;
+  }
+  /* .nav-pc {
+        display: none !important;
+    } */
+  /* .nav-mobile {
+        display: block;
+    } */
+  /* section#nav-bar .menu .menu-item {
+        border: none;
+    } */
+}
